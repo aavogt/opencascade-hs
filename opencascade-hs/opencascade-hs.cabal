@@ -66,6 +66,7 @@ extra-source-files:
     cpp/hs_gp_Dir.h
     cpp/hs_gp_Dir2d.h
     cpp/hs_gp_GTrsf.h
+    cpp/hs_gp_Lin.h
     cpp/hs_gp_Pnt.h
     cpp/hs_gp_Pnt2d.h
     cpp/hs_gp_Trsf.h
@@ -191,6 +192,7 @@ library
       OpenCascade.GP.Internal.Destructors
       OpenCascade.GP.Pnt
       OpenCascade.GP.Pnt2d
+      OpenCascade.GP.Lin
       OpenCascade.GP.Trsf
       OpenCascade.GP.Trsf2d
       OpenCascade.GP.Types

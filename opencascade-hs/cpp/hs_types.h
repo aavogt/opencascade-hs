@@ -26,6 +26,7 @@ typedef void gp_Dir;
 typedef void gp_Dir2d;
 typedef void gp_Vec;
 typedef void gp_Vec2d;
+typedef void gp_Lin;
 typedef void gp_Trsf;
 typedef void gp_GTrsf;
 typedef void gp_Trsf2d;
