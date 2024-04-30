@@ -10,6 +10,7 @@ module OpenCascade.GP.Types
 , Dir2d
 , Vec
 , Vec2d
+, Lin
 , Trsf
 , Trsf2d
 , GTrsf
@@ -26,6 +27,7 @@ data Dir
 data Dir2d
 data Vec
 data Vec2d
+data Lin
 data Trsf
 data Trsf2d
 data GTrsf
